@@ -1,0 +1,13 @@
+{
+  "appname": "test2repository",
+  "ocscope": "",
+  "clientid": "83C1315A-FB3E-4542-9D83-1F829024FE44",
+  "buyerid": null,
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
